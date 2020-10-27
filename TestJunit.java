@@ -9,3 +9,4 @@ public class TestJunit {
       assertEquals("Junit is working fine",str);
    }
 }
+}
